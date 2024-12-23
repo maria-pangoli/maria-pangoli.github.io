@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Maria Pangoli'
     license:
       enable: true
       allow_derivatives: false
@@ -69,7 +69,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/maria-pangoli/maria-pangoli.github.io'
     content_dir: content
     branch: main
   avatar:

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Maria Pangoli
 
 # Is this the primary user of the site?
 superuser: true
@@ -13,12 +13,12 @@ status:
   icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: "mariapangoli@hotmail.com"
+  url: "mailto:mariapangoli@hotmail.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: Lorem Ipsum
 
 #interests:
 #- Artificial Intelligence
@@ -38,19 +38,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #    year: 2008
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:mariapangoli@hotmail.com'  
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://instagram.com/
+
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -65,9 +63,14 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
+ My name is Maria.
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a travel and tourism specialist and parallel to my carrer I developed an interest in visual arts especially involving the use of materials that can be molded in three dimensions. I work in a variety of mediums and with various techniques and I translates reality by re-elaborating images via my art.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My work describes my state of mind in a specific moment and at the same time I finds encourgement to put life into perspective.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+In the past my work has been chosen by the global company adidas and exhibited in their store in Covent Garden, London, 10,000 copies of the  Bristol Pound poster I designed have been distributed in the UK, and my artwork ‘Europe’ was exhibited at the European Parliament in Brussels.
+
+I am open to meningful exchange an collaboration, get in touch!
+
+Ciao, Maria

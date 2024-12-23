@@ -1,22 +1,13 @@
 ---
-# A section created with the Portfolio widget.
-# This section displays content from `content/project/`.
-# See https://docs.hugoblox.com/widget/portfolio/
 widget: portfolio
-
-# This file represents a page section.
+widget_id: portfolio
 headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title: ''
-subtitle: ''
-
+weight: 10
+title: Maria Pangoli
+subtitle: My portfolio
+active: true
 content:
-  # Page type to display. E.g. project.
   page_type: project
-
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
 
@@ -26,14 +17,14 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
-      tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+  - name: All
+    tag: '*'
+  - name: Paper Flowers
+    tag:  PAPER_FLOWERS
+  - name: Case studies
+    tag:  CASE_STUDIES
+  - name: Illustrations
+    tag:  ILLUSTRATIONS
 
 design:
   columns: '1'
